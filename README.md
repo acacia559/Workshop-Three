@@ -10,3 +10,7 @@ adding images was a lot easier than drawing a sketch with shapes as I really str
 <img width="908" alt="pixel art" src="https://github.com/user-attachments/assets/81d41da8-4294-45d5-aa40-2b9f9fe56142" />
 
 I decided to use this old film image I had on my laptop to create a new image using the random function as this image had more colours to work with and generate something more interesting. 
+
+<img width="902" alt="collage" src="https://github.com/user-attachments/assets/5745b623-66b2-424c-adf0-4c2d2f4ca2ee" />
+
+I then added more images to the file and let the random function continue to produce random colours amongst the other images. I changes the shape to rectangle just to make it more clear. 
