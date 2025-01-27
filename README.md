@@ -14,3 +14,5 @@ I decided to use this old film image I had on my laptop to create a new image us
 <img width="902" alt="collage" src="https://github.com/user-attachments/assets/5745b623-66b2-424c-adf0-4c2d2f4ca2ee" />
 
 I then added more images to the file and let the random function continue to produce random colours amongst the other images. I changes the shape to rectangle just to make it more clear. 
+
+Final link to page: http://127.0.0.1:3000/ 
